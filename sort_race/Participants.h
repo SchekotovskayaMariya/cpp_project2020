@@ -9,8 +9,8 @@ std::vector<double> sort_for_integers_only(std::vector<double> data);
 
 //place your method name here
 //--------------------Team Badeev---------------------------
-std::vector<int> MergeSort_by_Badeev(std::vector<int> mas);
-std::vector<double> MergeSort_by_Badeev(std::vector<double> mas);
+std::vector<int> CombSortInt_Schekotovskaya(std::vector<int> mas);
+std::vector<double> CombSortDouble_Schekotovskaya(std::vector<double> mas);
 //---------------------------------------------------------------
 //place your method name here
 
